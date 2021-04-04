@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Yunus Karaaslan</h1>
-<h3 align="center">I am a junior software developer working for an automation company.</h3>
+<h3 align="center">I am a junior software developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=symcors&label=Profile%20Views&color=0eb437&style=flat" alt="symcors" /> </p>
 
