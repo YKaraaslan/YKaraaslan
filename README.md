@@ -8,9 +8,9 @@
 <p align="center"> <a href="https://twitter.com/yunusk_" target="blank"><img src="https://img.shields.io/twitter/follow/yunusk_?logo=twitter&style=for-the-badge" alt="yunusk_" /></a> </p>
 
 
-- 🔭 I’m currently working on **a web application to track a factory's machine information instantly.**
+- 🔭 I’m currently working on **a mobile application.**
 
-- 🌱 I’m currently learning **Flutter, Html, CSS, JavaScript as well as Kotlin.**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **together**
 
